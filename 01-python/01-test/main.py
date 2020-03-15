@@ -12,7 +12,7 @@ print('hello world')
 
 print('creat a new branch is quick')
 
-print('Creating a new branch is quick & simple')
+print('Creating a new branch is quick AND simple')
 
 img = cv2.imread('bird.jpg')
 
