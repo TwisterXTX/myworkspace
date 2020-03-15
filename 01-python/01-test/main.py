@@ -9,6 +9,8 @@ print('hello world')
 print('hello world')
 
 print('hello world')
+
+print('creat a new branch is quick')
 img = cv2.imread('bird.jpg')
 
 cv2.imshow('imshow', img)
